@@ -1,4 +1,3 @@
-/* SQL-0024 WEEK 2 Mandatory Project */
 
 /*
 1. Write a SQL query to find the actors who were cast in the movie 'Annie Hall'. 
